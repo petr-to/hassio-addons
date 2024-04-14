@@ -8,10 +8,11 @@
   },
   "author": "kdw2060",
   "url": "https://github.com/kdw2060/hassio-addons/tree/master/hassio-addon-api-consumer",
-  "repository": "https://github.com/kdw2060/hassio-addons/tree/master/hassio-addon-api-consumer",
+  "repository": "https://github.com/petr-to/hassio-addons/tree/master/hassio-addon-api-consumer",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0",
+    "bosch-xmpp": "^1.4.1",
     "cheerio": "^1.0.0-rc.10",
     "moment": "^2.29.1",
     "node-cron": "^3.0.0",
