@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kdw2060",
-  "url": "https://github.com/kdw2060/hassio-addons/tree/master/hassio-addon-api-consumer",
+  "url": "https://github.com/petr-to/hassio-addons/tree/master/hassio-addon-api-consumer",
   "repository": "https://github.com/petr-to/hassio-addons/tree/master/hassio-addon-api-consumer",
   "license": "MIT",
   "dependencies": {
